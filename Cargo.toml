@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["aresty", "aresty_examples", "aresty_macros"]

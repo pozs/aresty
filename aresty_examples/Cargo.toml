@@ -1,0 +1,8 @@
+[package]
+name = "aresty_examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aresty = { path = "../aresty/" }
+aresty_macros = { path = "../aresty_macros/" }
