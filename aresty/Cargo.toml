@@ -13,4 +13,4 @@ categories = ["template-engine"]
 [lib]
 
 [dependencies]
-aresty_macros = { path = "../aresty_macros/" }
+aresty_macros = "0.1"
