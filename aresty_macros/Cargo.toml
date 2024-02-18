@@ -2,6 +2,13 @@
 name = "aresty_macros"
 version = "0.1.0"
 edition = "2021"
+authors = ["David Pozsar <david.pozsar@gmail.com>"]
+description = "Macros for aresty"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/pozs/aresty"
+readme = "README.md"
+keywords = ["compile", "template", "markup", "html", "rst"]
+categories = ["template-engine"]
 
 [lib]
 proc-macro = true
